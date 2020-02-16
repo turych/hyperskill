@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Problems/Arithmetic average/out/
+/Problems/Arithmetic average/out/production/classes/
