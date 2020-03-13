@@ -28,24 +28,16 @@ topics:
   - title: Printing data
     theory_id: 3749
   1:
-  - title: Command line overview
-    theory_id: 6577
   - title: Types and variables
     theory_id: 3518
   - title: Comments
     theory_id: 3520
   - title: Naming variables
     theory_id: 3513
-  - title: Arithmetic operations
-    theory_id: 3519
-  - title: Write, compile and run
-    theory_id: 3739
-  - title: JVM, JRE and JDK
-    theory_id: 3499
-  - title: Running programs on your computer
-    theory_id: 3746
   - title: Scanning the input
     theory_id: 3603
+  - title: Arithmetic operations
+    theory_id: 3519
   - title: Integer types and operations
     theory_id: 3565
   - title: Boolean and logical operations
@@ -122,14 +114,16 @@ topics:
     theory_id: 3510
   - title: Final variables
     theory_id: 7427
-  - title: Errors in programs
-    theory_id: 3536
   - title: Ternary operator
     theory_id: 3506
   - title: Defining methods
     theory_id: 3590
   - title: Overloading
     theory_id: 3525
+  - title: Write, compile and run
+    theory_id: 3739
+  - title: Errors in programs
+    theory_id: 3536
   - title: Defining classes
     theory_id: 3618
   - title: Package
@@ -167,12 +161,18 @@ topics:
   - title: Boxing and unboxing
     theory_id: 3595
   4:
+  - title: Command line overview
+    theory_id: 6577
   - title: Files
     theory_id: 3635
   - title: Reading files
     theory_id: 3636
   - title: Writing files
     theory_id: 3652
+  - title: JVM, JRE and JDK
+    theory_id: 3499
+  - title: Running programs on your computer
+    theory_id: 3746
   - title: Random
     theory_id: 4910
   5:

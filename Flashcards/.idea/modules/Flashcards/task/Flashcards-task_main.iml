@@ -28,8 +28,8 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
     <output url="file://$MODULE_DIR$/../../../../Flashcards/task/out/production/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../../../Simple Chatty Bot/src">
-      <sourceFolder url="file://$MODULE_DIR$/../../../../../Simple Chatty Bot/src" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/../../../../Flashcards/task/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Flashcards/task/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
