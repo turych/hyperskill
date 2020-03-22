@@ -1,84 +1,117 @@
 [1;31m
-Start test 1[0m
-Input the number of cards:
->2
-The card #1:
->black
-The definition of the card #1:
->white
-The card #2:
->black
-+The card "black" already exists. Try again:
->red
-The definition of the card #2:
->white
-1The definition "white" already exists. Try again:
->green
- Print the definition of "black":
->white
-Correct answer.
-Print the definition of "red":
->green
-Correct answer.
+Start test 1[0m
+ZInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+>export
+
+File name:
+>capitals.txt
+0 cards have been saved.
+
+ZInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+>export
+
+File name:
+>capitalsNew.txt
+0 cards have been saved.
+
+ZInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+>exit
+Bye bye!
 [1;31m
-Start test 2[0m
-Input the number of cards:
->2
-The card #1:
->a brother of one's parent
-The definition of the card #1:
->uncle
-The card #2:
-4>a part of the body where the foot and the leg meet
-The definition of the card #2:
->ankle
-4Print the definition of "a brother of one's parent":
->ankle
-(Wrong answer. The correct one is "uncle"], you've just written the definition of "a part of the body where the foot and the leg meet".
-MPrint the definition of "a part of the body where the foot and the leg meet":
->???
-)Wrong answer. The correct one is "ankle".
+Start test 2[0m
+ZInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+>add
+	The card:
+>France
+The definition of the card:
+>Paris
++The pair ("France":"Paris") has been added.
+
+ZInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+>add
+	The card:
+>Russia
+The definition of the card:
+>Moscow
+,The pair ("Russia":"Moscow") has been added.
+
+ZInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+>ask
+How many times to ask?
+>3
+!Print the definition of "France":
+>France
+)Wrong answer. The correct one is "Paris".
+!Print the definition of "Russia":
+>??
+*Wrong answer. The correct one is "Moscow".
+!Print the definition of "France":
+>
+)Wrong answer. The correct one is "Paris".
+
+ZInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+>exit
+Bye bye!
+2 cards have been saved.
 [1;31m
-Start test 3[0m
-Input the number of cards:
->4
-The card #1:
->c1
-The definition of the card #1:
->d1
-The card #2:
->c2
-The definition of the card #2:
->d2
-The card #3:
->c3
-The definition of the card #3:
->d3
-The card #4:
->c3
-(The card "c3" already exists. Try again:
->c2
-(The card "c2" already exists. Try again:
->c1
-(The card "c1" already exists. Try again:
->c4
-The definition of the card #4:
->d2
-.The definition "d2" already exists. Try again:
->d3
-.The definition "d3" already exists. Try again:
->d1
-.The definition "d1" already exists. Try again:
->d4
-Print the definition of "c1":
->d1
-Correct answer.
-Print the definition of "c2":
->d1
-%Wrong answer. The correct one is "d2"-, you've just written the definition of "c1".
-Print the definition of "c3":
-	>d3 ddd3
-&Wrong answer. The correct one is "d3".
-Print the definition of "c4":
->???
-&Wrong answer. The correct one is "d4".
+Start test 3[0m
+2 cards have been loaded.
+ZInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+>add
+	The card:
+>Japan
+The definition of the card:
+>Tokyo
+*The pair ("Japan":"Tokyo") has been added.
+
+ZInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+>ask
+How many times to ask?
+>3
+ Print the definition of "Japan":
+>Moscow
+YWrong answer. The correct one is "Tokyo", you've just written the definition of "Russia".
+!Print the definition of "France":
+>Paris
+Correct answer.
+!Print the definition of "Russia":
+>Tokyo
+YWrong answer. The correct one is "Moscow", you've just written the definition of "Japan".
+
+ZInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+>exit
+Bye bye!
+3 cards have been saved.
+[1;31m
+Start test 4[0m
+3 cards have been loaded.
+ZInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+>ask
+How many times to ask?
+>3
+ Print the definition of "Japan":
+>Moscow
+YWrong answer. The correct one is "Tokyo", you've just written the definition of "Russia".
+!Print the definition of "Russia":
+>Paris
+ZWrong answer. The correct one is "Moscow", you've just written the definition of "France".
+!Print the definition of "France":
+>Tokyo
+XWrong answer. The correct one is "Paris", you've just written the definition of "Japan".
+
+ZInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+>remove
+	The card:
+>Japan
+The card has been removed.
+
+ZInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+>exit
+Bye bye!
+2 cards have been saved.
+[1;31m
+Start test 5[0m
+2 cards have been loaded.
+ZInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+>exit
+Bye bye!

@@ -41,7 +41,7 @@
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">0.183s</div>
+<div class="counter">0.760s</div>
 <p>duration</p>
 </div>
 </td>
@@ -79,7 +79,7 @@
 </thead>
 <tr>
 <td class="success">start</td>
-<td class="success">0.183s</td>
+<td class="success">0.760s</td>
 <td class="success">passed</td>
 </tr>
 </table>
@@ -89,88 +89,119 @@
 <span class="code">
 <pre>?[1;31m
 Start test 1?[0m
-Input the number of cards:
-&gt;2
-The card #1:
-&gt;black
-The definition of the card #1:
-&gt;white
-The card #2:
-&gt;black
-The card &quot;black&quot; already exists. Try again:
-&gt;red
-The definition of the card #2:
-&gt;white
-The definition &quot;white&quot; already exists. Try again:
-&gt;green
-Print the definition of &quot;black&quot;:
-&gt;white
-Correct answer.
-Print the definition of &quot;red&quot;:
-&gt;green
-Correct answer.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+&gt;export
+File name:
+&gt;capitals.txt
+0 cards have been saved.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+&gt;export
+File name:
+&gt;capitalsNew.txt
+0 cards have been saved.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+&gt;exit
+Bye bye!
 ?[1;31m
 Start test 2?[0m
-Input the number of cards:
-&gt;2
-The card #1:
-&gt;a brother of one's parent
-The definition of the card #1:
-&gt;uncle
-The card #2:
-&gt;a part of the body where the foot and the leg meet
-The definition of the card #2:
-&gt;ankle
-Print the definition of &quot;a brother of one's parent&quot;:
-&gt;ankle
-Wrong answer. The correct one is &quot;uncle&quot;, you've just written the definition of &quot;a part of the body where the foot and the leg meet&quot;.
-Print the definition of &quot;a part of the body where the foot and the leg meet&quot;:
-&gt;???
-Wrong answer. The correct one is &quot;ankle&quot;.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+&gt;add
+The card:
+&gt;France
+The definition of the card:
+&gt;Paris
+The pair (&quot;France&quot;:&quot;Paris&quot;) has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+&gt;add
+The card:
+&gt;Russia
+The definition of the card:
+&gt;Moscow
+The pair (&quot;Russia&quot;:&quot;Moscow&quot;) has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+&gt;ask
+How many times to ask?
+&gt;3
+Print the definition of &quot;France&quot;:
+&gt;France
+Wrong answer. The correct one is &quot;Paris&quot;.
+Print the definition of &quot;Russia&quot;:
+&gt;??
+Wrong answer. The correct one is &quot;Moscow&quot;.
+Print the definition of &quot;France&quot;:
+&gt;
+Wrong answer. The correct one is &quot;Paris&quot;.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+&gt;exit
+Bye bye!
+2 cards have been saved.
 ?[1;31m
 Start test 3?[0m
-Input the number of cards:
-&gt;4
-The card #1:
-&gt;c1
-The definition of the card #1:
-&gt;d1
-The card #2:
-&gt;c2
-The definition of the card #2:
-&gt;d2
-The card #3:
-&gt;c3
-The definition of the card #3:
-&gt;d3
-The card #4:
-&gt;c3
-The card &quot;c3&quot; already exists. Try again:
-&gt;c2
-The card &quot;c2&quot; already exists. Try again:
-&gt;c1
-The card &quot;c1&quot; already exists. Try again:
-&gt;c4
-The definition of the card #4:
-&gt;d2
-The definition &quot;d2&quot; already exists. Try again:
-&gt;d3
-The definition &quot;d3&quot; already exists. Try again:
-&gt;d1
-The definition &quot;d1&quot; already exists. Try again:
-&gt;d4
-Print the definition of &quot;c1&quot;:
-&gt;d1
+2 cards have been loaded.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+&gt;add
+The card:
+&gt;Japan
+The definition of the card:
+&gt;Tokyo
+The pair (&quot;Japan&quot;:&quot;Tokyo&quot;) has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+&gt;ask
+How many times to ask?
+&gt;3
+Print the definition of &quot;Japan&quot;:
+&gt;Moscow
+Wrong answer. The correct one is &quot;Tokyo&quot;, you've just written the definition of &quot;Russia&quot;.
+Print the definition of &quot;France&quot;:
+&gt;Paris
 Correct answer.
-Print the definition of &quot;c2&quot;:
-&gt;d1
-Wrong answer. The correct one is &quot;d2&quot;, you've just written the definition of &quot;c1&quot;.
-Print the definition of &quot;c3&quot;:
-&gt;d3 ddd3
-Wrong answer. The correct one is &quot;d3&quot;.
-Print the definition of &quot;c4&quot;:
-&gt;???
-Wrong answer. The correct one is &quot;d4&quot;.
+Print the definition of &quot;Russia&quot;:
+&gt;Tokyo
+Wrong answer. The correct one is &quot;Moscow&quot;, you've just written the definition of &quot;Japan&quot;.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+&gt;exit
+Bye bye!
+3 cards have been saved.
+?[1;31m
+Start test 4?[0m
+3 cards have been loaded.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+&gt;ask
+How many times to ask?
+&gt;3
+Print the definition of &quot;Japan&quot;:
+&gt;Moscow
+Wrong answer. The correct one is &quot;Tokyo&quot;, you've just written the definition of &quot;Russia&quot;.
+Print the definition of &quot;Russia&quot;:
+&gt;Paris
+Wrong answer. The correct one is &quot;Moscow&quot;, you've just written the definition of &quot;France&quot;.
+Print the definition of &quot;France&quot;:
+&gt;Tokyo
+Wrong answer. The correct one is &quot;Paris&quot;, you've just written the definition of &quot;Japan&quot;.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+&gt;remove
+The card:
+&gt;Japan
+The card has been removed.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+&gt;exit
+Bye bye!
+2 cards have been saved.
+?[1;31m
+Start test 5?[0m
+2 cards have been loaded.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+&gt;exit
+Bye bye!
 </pre>
 </span>
 </div>
@@ -182,7 +213,7 @@ Wrong answer. The correct one is &quot;d4&quot;.
 <input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
 </label>
 </div>Generated by 
-<a href="http://www.gradle.org">Gradle 5.3.1</a> at Mar 13, 2020, 4:33:46 PM</p>
+<a href="http://www.gradle.org">Gradle 5.3.1</a> at Mar 21, 2020, 1:16:50 PM</p>
 </div>
 </div>
 </body>
