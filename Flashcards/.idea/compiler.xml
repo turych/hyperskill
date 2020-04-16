@@ -2,56 +2,78 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Flashcards-Problems-Check_if_an_array_contains_two_numbers" target="11" />
       <module name="Flashcards-Problems-Check_if_an_array_contains_two_numbers_main" target="11" />
       <module name="Flashcards-Problems-Check_if_an_array_contains_two_numbers_test" target="11" />
+      <module name="Flashcards-Problems-Count_how_many_times_a_number_occurs" target="11" />
       <module name="Flashcards-Problems-Count_how_many_times_a_number_occurs_main" target="11" />
       <module name="Flashcards-Problems-Count_how_many_times_a_number_occurs_test" target="11" />
+      <module name="Flashcards-Problems-The_maximum_pairwise_product" target="11" />
       <module name="Flashcards-Problems-The_maximum_pairwise_product_main" target="11" />
       <module name="Flashcards-Problems-The_maximum_pairwise_product_test" target="11" />
+      <module name="Flashcards-task" target="11" />
       <module name="Flashcards-task_main" target="11" />
       <module name="Flashcards-task_test" target="11" />
+      <module name="Problems-A_simple_calculator" target="11" />
       <module name="Problems-A_simple_calculator_main" target="11" />
       <module name="Problems-A_simple_calculator_test" target="11" />
+      <module name="Problems-Account_Service" target="11" />
       <module name="Problems-Account_Service_main" target="11" />
       <module name="Problems-Account_Service_test" target="11" />
       <module name="Problems-Check_if_an_array_contains_two_numbers_main" target="11" />
       <module name="Problems-Check_if_an_array_contains_two_numbers_test" target="11" />
+      <module name="Problems-Compact_strings_with_AsciiCharSequence" target="11" />
       <module name="Problems-Compact_strings_with_AsciiCharSequence_main" target="11" />
       <module name="Problems-Compact_strings_with_AsciiCharSequence_test" target="11" />
+      <module name="Problems-Concat_positive_numbers" target="11" />
       <module name="Problems-Concat_positive_numbers_main" target="11" />
       <module name="Problems-Concat_positive_numbers_test" target="11" />
+      <module name="Problems-Convert_to_bytes" target="11" />
       <module name="Problems-Convert_to_bytes_main" target="11" />
       <module name="Problems-Convert_to_bytes_test" target="11" />
+      <module name="Problems-Converting_and_multiplying" target="11" />
       <module name="Problems-Converting_and_multiplying_main" target="11" />
       <module name="Problems-Converting_and_multiplying_test" target="11" />
       <module name="Problems-Count_how_many_times_a_number_occurs_main" target="11" />
       <module name="Problems-Count_how_many_times_a_number_occurs_test" target="11" />
+      <module name="Problems-Count_words" target="11" />
       <module name="Problems-Count_words_main" target="11" />
       <module name="Problems-Count_words_test" target="11" />
+      <module name="Problems-Cyclically_shifting_elements" target="11" />
       <module name="Problems-Cyclically_shifting_elements_main" target="11" />
       <module name="Problems-Cyclically_shifting_elements_test" target="11" />
+      <module name="Problems-Find_the_nearest_number" target="11" />
       <module name="Problems-Find_the_nearest_number_main" target="11" />
       <module name="Problems-Find_the_nearest_number_test" target="11" />
+      <module name="Problems-From_Double_to_Integer" target="11" />
       <module name="Problems-From_Double_to_Integer_main" target="11" />
       <module name="Problems-From_Double_to_Integer_test" target="11" />
+      <module name="Problems-Generate_random_numbers" target="11" />
       <module name="Problems-Generate_random_numbers_main" target="11" />
       <module name="Problems-Generate_random_numbers_test" target="11" />
+      <module name="Problems-Mutable_geometric_shapes" target="11" />
       <module name="Problems-Mutable_geometric_shapes_main" target="11" />
       <module name="Problems-Mutable_geometric_shapes_test" target="11" />
+      <module name="Problems-Print" target="11" />
       <module name="Problems-Print_main" target="11" />
       <module name="Problems-Print_test" target="11" />
+      <module name="Problems-Processing_maps" target="11" />
       <module name="Problems-Processing_maps_main" target="11" />
       <module name="Problems-Processing_maps_test" target="11" />
       <module name="Problems-Project_constants_and_methods_main" target="11" />
       <module name="Problems-Project_constants_and_methods_test" target="11" />
+      <module name="Problems-Reverse_input_text" target="11" />
       <module name="Problems-Reverse_input_text_main" target="11" />
       <module name="Problems-Reverse_input_text_test" target="11" />
+      <module name="Problems-Sherlock_Holmes_and_the_mystery_of_anagrams" target="11" />
       <module name="Problems-Sherlock_Holmes_and_the_mystery_of_anagrams_main" target="11" />
       <module name="Problems-Sherlock_Holmes_and_the_mystery_of_anagrams_test" target="11" />
+      <module name="Problems-Spell_checker" target="11" />
       <module name="Problems-Spell_checker_main" target="11" />
       <module name="Problems-Spell_checker_test" target="11" />
       <module name="Problems-The_maximum_pairwise_product_main" target="11" />
       <module name="Problems-The_maximum_pairwise_product_test" target="11" />
+      <module name="util" target="11" />
       <module name="util_main" target="11" />
       <module name="util_test" target="11" />
     </bytecodeTargetLevel>

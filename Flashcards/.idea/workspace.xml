@@ -2,159 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63264789-be24-4100-a78d-076b657e19c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/hyperskill.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Problems-Concat_positive_numbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Problems-Concat_positive_numbers_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Problems-Concat_positive_numbers_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Problems-Find_the_nearest_number.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Problems-Find_the_nearest_number_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Problems-Find_the_nearest_number_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flashcards/task/capitals.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flashcards/task/capitalsNew.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flashcards/task/test/common/FlashcardsStage7Test.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/A simple calculator/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/A simple calculator/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/A simple calculator/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/A simple calculator/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Concat positive numbers/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Concat positive numbers/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Concat positive numbers/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Concat positive numbers/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Convert to bytes/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Convert to bytes/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Convert to bytes/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Convert to bytes/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Count words/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Count words/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Count words/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Count words/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find the nearest number/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find the nearest number/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find the nearest number/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find the nearest number/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Generate random numbers/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Generate random numbers/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Generate random numbers/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Generate random numbers/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Reverse input text/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Reverse input text/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Reverse input text/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Reverse input text/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/hyperskill.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Account Service/Problems-Account_Service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Account Service/Problems-Account_Service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Account Service/Problems-Account_Service_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Account Service/Problems-Account_Service_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Account Service/Problems-Account_Service_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Account Service/Problems-Account_Service_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Flashcards-Problems-Check_if_an_array_contains_two_numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Flashcards-Problems-Check_if_an_array_contains_two_numbers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Flashcards-Problems-Check_if_an_array_contains_two_numbers_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Flashcards-Problems-Check_if_an_array_contains_two_numbers_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Flashcards-Problems-Check_if_an_array_contains_two_numbers_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Flashcards-Problems-Check_if_an_array_contains_two_numbers_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Compact strings with AsciiCharSequence/Problems-Compact_strings_with_AsciiCharSequence.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Compact strings with AsciiCharSequence/Problems-Compact_strings_with_AsciiCharSequence.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Compact strings with AsciiCharSequence/Problems-Compact_strings_with_AsciiCharSequence_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Compact strings with AsciiCharSequence/Problems-Compact_strings_with_AsciiCharSequence_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Compact strings with AsciiCharSequence/Problems-Compact_strings_with_AsciiCharSequence_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Compact strings with AsciiCharSequence/Problems-Compact_strings_with_AsciiCharSequence_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Problems-Concat_positive_numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Problems-Concat_positive_numbers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Problems-Concat_positive_numbers_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Problems-Concat_positive_numbers_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Problems-Concat_positive_numbers_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Problems-Concat_positive_numbers_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Problems-Converting_and_multiplying.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Problems-Converting_and_multiplying.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Problems-Converting_and_multiplying_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Problems-Converting_and_multiplying_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Problems-Converting_and_multiplying_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Problems-Converting_and_multiplying_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Count how many times a number occurs/Flashcards-Problems-Count_how_many_times_a_number_occurs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count how many times a number occurs/Flashcards-Problems-Count_how_many_times_a_number_occurs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Count how many times a number occurs/Flashcards-Problems-Count_how_many_times_a_number_occurs_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count how many times a number occurs/Flashcards-Problems-Count_how_many_times_a_number_occurs_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Count how many times a number occurs/Flashcards-Problems-Count_how_many_times_a_number_occurs_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count how many times a number occurs/Flashcards-Problems-Count_how_many_times_a_number_occurs_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Cyclically shifting elements/Problems-Cyclically_shifting_elements.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Cyclically shifting elements/Problems-Cyclically_shifting_elements.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Cyclically shifting elements/Problems-Cyclically_shifting_elements_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Cyclically shifting elements/Problems-Cyclically_shifting_elements_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Cyclically shifting elements/Problems-Cyclically_shifting_elements_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Cyclically shifting elements/Problems-Cyclically_shifting_elements_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Problems-Find_the_nearest_number.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Problems-Find_the_nearest_number.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Problems-Find_the_nearest_number_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Problems-Find_the_nearest_number_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Problems-Find_the_nearest_number_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Problems-Find_the_nearest_number_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/From Double to Integer/Problems-From_Double_to_Integer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/From Double to Integer/Problems-From_Double_to_Integer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/From Double to Integer/Problems-From_Double_to_Integer_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/From Double to Integer/Problems-From_Double_to_Integer_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/From Double to Integer/Problems-From_Double_to_Integer_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/From Double to Integer/Problems-From_Double_to_Integer_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Problems-Generate_random_numbers_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Mutable geometric shapes/Problems-Mutable_geometric_shapes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Mutable geometric shapes/Problems-Mutable_geometric_shapes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Mutable geometric shapes/Problems-Mutable_geometric_shapes_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Mutable geometric shapes/Problems-Mutable_geometric_shapes_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Mutable geometric shapes/Problems-Mutable_geometric_shapes_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Mutable geometric shapes/Problems-Mutable_geometric_shapes_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Print/Problems-Print.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print/Problems-Print.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Print/Problems-Print_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print/Problems-Print_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Print/Problems-Print_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print/Problems-Print_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Processing maps/Problems-Processing_maps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Processing maps/Problems-Processing_maps.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Processing maps/Problems-Processing_maps_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Processing maps/Problems-Processing_maps_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Processing maps/Problems-Processing_maps_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Processing maps/Problems-Processing_maps_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Sherlock Holmes and the mystery of anagrams/Problems-Sherlock_Holmes_and_the_mystery_of_anagrams.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sherlock Holmes and the mystery of anagrams/Problems-Sherlock_Holmes_and_the_mystery_of_anagrams.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Sherlock Holmes and the mystery of anagrams/Problems-Sherlock_Holmes_and_the_mystery_of_anagrams_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sherlock Holmes and the mystery of anagrams/Problems-Sherlock_Holmes_and_the_mystery_of_anagrams_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Sherlock Holmes and the mystery of anagrams/Problems-Sherlock_Holmes_and_the_mystery_of_anagrams_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sherlock Holmes and the mystery of anagrams/Problems-Sherlock_Holmes_and_the_mystery_of_anagrams_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Spell checker/Problems-Spell_checker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Spell checker/Problems-Spell_checker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Spell checker/Problems-Spell_checker_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Spell checker/Problems-Spell_checker_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Spell checker/Problems-Spell_checker_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Spell checker/Problems-Spell_checker_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/The maximum pairwise product/Flashcards-Problems-The_maximum_pairwise_product.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/The maximum pairwise product/Flashcards-Problems-The_maximum_pairwise_product.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/The maximum pairwise product/Flashcards-Problems-The_maximum_pairwise_product_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/The maximum pairwise product/Flashcards-Problems-The_maximum_pairwise_product_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/The maximum pairwise product/Flashcards-Problems-The_maximum_pairwise_product_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/The maximum pairwise product/Flashcards-Problems-The_maximum_pairwise_product_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Flashcards/A good stack/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/A good stack/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Flashcards/IMPORTant/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/IMPORTant/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/Menu, please!/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/Menu, please!/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Flashcards/Statistics/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/Statistics/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/classes/java/main/flashcards/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/classes/java/main/flashcards/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/classes/java/test/FlashcardsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/classes/java/test/FlashcardsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/Context.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/DialogClue.class" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/DialogClue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/DialogClueKt$anyLine$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/DialogClueKt$anyLine$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/DialogClueKt$compositePhrase$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/DialogClueKt$compositePhrase$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/DialogClueKt$compositePhrase$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/DialogClueKt$compositePhrase$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/DialogClueKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/DialogClueKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/FlashcardsStage4Test$askCorrect$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/FlashcardsStage4Test$askWrong$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/FlashcardsStage4Test$inputCard$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/FlashcardsStage4Test$inputNum$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin/test/common/FlashcardsStage4Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/reports/tests/test/classes/FlashcardsTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/reports/tests/test/classes/FlashcardsTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/test-results/test/TEST-FlashcardsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/test-results/test/TEST-FlashcardsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/out/production/classes/flashcards/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/out/production/classes/flashcards/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/src/flashcards/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/src/flashcards/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/test/FlashcardsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/test/FlashcardsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/test/common/DialogClue.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/test/common/DialogClue.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/test/common/FlashcardsStage4Test.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Print/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Print/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -190,9 +118,6 @@
       </state>
     </system>
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Flashcards" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -209,14 +134,13 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sax/jaxb" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
@@ -282,18 +206,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -331,11 +243,11 @@
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
     <state x="524" y="211" width="924" height="691" key="DBNavigator.ProjectSettingsDialog/62.27.1858.1053@62.27.1858.1053" timestamp="1584540017128" />
-    <state x="778" y="309" width="424" height="491" key="FileChooserDialogImpl" timestamp="1584787916162">
+    <state x="778" y="309" width="424" height="491" key="FileChooserDialogImpl" timestamp="1586801004020">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
     <state x="740" y="311" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1582578578108" />
-    <state x="778" y="309" width="424" height="491" key="FileChooserDialogImpl/62.27.1858.1053@62.27.1858.1053" timestamp="1584787916162" />
+    <state x="778" y="309" width="424" height="491" key="FileChooserDialogImpl/62.27.1858.1053@62.27.1858.1053" timestamp="1586801004020" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1584819312286">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>

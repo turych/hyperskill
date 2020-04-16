@@ -12,4 +12,6 @@ content:
 - Generate random numbers
 - Concat positive numbers
 - Find the nearest number
-- A simple calculator
+- Convert to bytes
+- Reverse input text
+- Count words
