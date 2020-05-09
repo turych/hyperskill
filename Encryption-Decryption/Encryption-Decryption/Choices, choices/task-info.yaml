@@ -5,10 +5,10 @@ files:
   visible: false
   text: |
     import encryptdecrypt.Main;
-    import org.hyperskill.hstest.common.FileUtils;
-    import org.hyperskill.hstest.stage.StageTest;
-    import org.hyperskill.hstest.testcase.CheckResult;
-    import org.hyperskill.hstest.testcase.TestCase;
+    import org.hyperskill.hstest.v6.common.FileUtils;
+    import org.hyperskill.hstest.v6.stage.BaseStageTest;
+    import org.hyperskill.hstest.v6.testcase.CheckResult;
+    import org.hyperskill.hstest.v6.testcase.TestCase;
 
     import java.io.IOException;
     import java.nio.charset.StandardCharsets;
@@ -18,7 +18,7 @@ files:
     import java.nio.file.Paths;
     import java.util.List;
 
-    public class EncryptDecryptTest extends StageTest<String> {
+    public class EncryptDecryptTest extends BaseStageTest<String> {
         public EncryptDecryptTest() {
             super(Main.class);
         }
@@ -183,10 +183,6 @@ files:
         }
     }
   learner_created: false
-- name: output.txt
-  visible: true
-  text: 111122223333
-  learner_created: true
 feedback_link: https://hyperskill.org/projects/46/stages/250/implement
-status: Solved
+status: Unchecked
 record: -1

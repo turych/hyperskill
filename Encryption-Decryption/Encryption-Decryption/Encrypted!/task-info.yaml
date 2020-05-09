@@ -62,6 +62,27 @@ files:
         }
     }
   learner_created: false
+- name: src/encryptdecrypt/UnicodeShift.java
+  visible: true
+  learner_created: true
+- name: src/encryptdecrypt/ShiftService.java
+  visible: true
+  learner_created: true
+- name: src/encryptdecrypt/DataService.java
+  visible: true
+  learner_created: true
+- name: src/encryptdecrypt/ShiftFactory.java
+  visible: true
+  learner_created: true
+- name: src/encryptdecrypt/StringShift.java
+  visible: true
+  learner_created: true
+- name: src/encryptdecrypt/AlphabetShift.java
+  visible: true
+  learner_created: true
+- name: output.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/46/stages/245/implement
 status: Solved
-record: 1
+record: 4
