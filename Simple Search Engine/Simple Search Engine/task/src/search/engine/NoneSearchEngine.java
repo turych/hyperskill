@@ -3,6 +3,7 @@ package search.engine;
 import search.SearchIndex;
 
 import java.util.*;
+import java.util.function.Predicate;
 
 public class NoneSearchEngine extends SearchService{
 
