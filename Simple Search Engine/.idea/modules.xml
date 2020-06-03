@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert to byte array/Problems-Convert_to_byte_array.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert to byte array/Problems-Convert_to_byte_array.iml" group="Simple_Search_Engine/Problems-Convert_to_byte_array" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert to byte array/Problems-Convert_to_byte_array_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert to byte array/Problems-Convert_to_byte_array_main.iml" group="Simple_Search_Engine/Problems-Convert_to_byte_array" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert to byte array/Problems-Convert_to_byte_array_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert to byte array/Problems-Convert_to_byte_array_test.iml" group="Simple_Search_Engine/Problems-Convert_to_byte_array" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Problems-Split_a_list_into_sublists.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Problems-Split_a_list_into_sublists.iml" group="Simple_Search_Engine/Problems-Split_a_list_into_sublists" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Problems-Split_a_list_into_sublists_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Problems-Split_a_list_into_sublists_test.iml" group="Simple_Search_Engine/Problems-Split_a_list_into_sublists" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Search_Engine.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Search_Engine.iml" group="Simple_Search_Engine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine-task.iml" group="Simple_Search_Engine/Simple_Search_Engine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine-task_main.iml" group="Simple_Search_Engine/Simple_Search_Engine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine-task_test.iml" group="Simple_Search_Engine/Simple_Search_Engine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Simple_Search_Engine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Simple_Search_Engine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Simple_Search_Engine/util" />
+    </modules>
+  </component>
+</project>
