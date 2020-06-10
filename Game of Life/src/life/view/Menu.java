@@ -33,6 +33,8 @@ public class Menu extends JPanel {
         reset.setName("ResetButton");
         add(reset);
 
+        JLabel speedLabel = new JLabel("Speed:");
+        add(speedLabel);
         speed = new Speed(10, 1000, 100);
         speed.setAlignmentX(Component.LEFT_ALIGNMENT);
         add(speed);
