@@ -123,7 +123,7 @@ public class PolishNotation {
 
     public boolean isInfixValid(String infix) {
         infix = infixFilter(infix);
-        boolean expressionValid = infix.matches("([(+-]?\\d+|[a-zA-Z]+)([+\\-*\\\\/^]\\(*(\\d+|[a-zA-Z]+)\\)*)*");
+        boolean expressionValid = infix.matches("([(+-]?\\(*(\\d+|[a-zA-Z]+))([+\\-*\\\\/^]\\(*(\\d+|[a-zA-Z]+)\\)*)*");
         boolean bracketsBalanced = BracketBalance.check(infix.replaceAll("[^()\\[\\]{}]", ""));
         return expressionValid && bracketsBalanced;
     }
